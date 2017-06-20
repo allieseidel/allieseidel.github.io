@@ -1,0 +1,26 @@
+body {
+	background-color: #fff
+	text-align: center;
+	color: 000;
+	font-family: helvetica;
+}
+h1{
+	font-size: 25px;
+}
+#slogan{
+	font-style: italic;
+	font-style: bold;
+	font-size: 18px;
+}
+hr {
+	width: 500px;
+}
+.description{
+	font-size: 14px;
+}
+#contact{
+	font-size: 14px;
+	text-decoration: underline;
+	color: eb35e3;	
+}
+
