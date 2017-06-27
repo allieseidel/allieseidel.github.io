@@ -6,7 +6,7 @@ body {
 }
 h1{
 	font-size: 25px;
-	font-family: 'Abril Fatface', cursive;
+	font-family: 'Abril Fatface';
 }
 #slogan{
 	font-style: italic;
@@ -22,10 +22,5 @@ hr {
 	line-height: 1.5em;
     margin: 2em;
 
-}
-#contact{
-	font-size: 14px;
-	text-decoration: underline;
-	color: eb35e3;	
 }
 
