@@ -3,15 +3,16 @@
 body {
 	background-color: #000;
 	font-size: 16px;
-	font-family: Helvetica;
 	text-align: center;
+	position: relative;
 	color: #fff;
 }
 h1{
 	font-size: 30px;
 	font-family: 'Abril Fatface', cursive;
+	padding: 0 200px
 }
-#slogan{
+h2 #slogan{
 	font-style: italic;
 	font-style: bold;
 	font-size: 16px;
@@ -25,8 +26,9 @@ p{
 	font-size: 1em;
 	width: 30em;
 	margin: auto;
+	padding: 50px;
 }
-section{
+h3{
 	font-size: 14px;
 	text-decoration: underline;
 	color: eb35e3;	
