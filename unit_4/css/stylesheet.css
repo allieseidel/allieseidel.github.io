@@ -8,18 +8,18 @@ body {
 	color: #fff;
 }
 h1{
-	font-size: 30px;
+	font-size: 50px;
 	font-family: 'Abril Fatface', cursive;
-	padding: 0 200px
 }
 h2 #slogan{
 	font-style: italic;
 	font-style: bold;
-	font-size: 16px;
+	font-size: 20px;
+	line-height: 1em;
 }
 hr {
 	width: 800px;
-	margin:2em;
+	margin:1em;
 }
 p{
 	font-family:'Lora', serif;
