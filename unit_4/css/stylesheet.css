@@ -5,6 +5,7 @@ body {
 	font-size: 16px;
 	text-align: center;
 	position: relative;
+	font-family: helveitca
 	color: #fff;
 }
 h1{
@@ -18,7 +19,11 @@ h2 #slogan{
 	line-height: 1em;
 }
 hr {
-	margin: auto;
+	border:none;
+	height:10px;
+	background-color: #fff;
+	width:2em;
+	margin:1em auto;
 }
 p{
 	font-family:'Lora', serif;
