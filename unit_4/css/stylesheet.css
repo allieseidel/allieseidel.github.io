@@ -8,7 +8,7 @@ body {
 	color: #fff;
 }
 h1{
-	font-size: 25px;
+	font-size: 30px;
 	font-family: 'Abril Fatface', cursive;
 }
 #slogan{
@@ -23,6 +23,7 @@ p{
 	font-family:'Lora', serif;
 	font-size: 1em;
 	width: 30em;
+	text-align: center;
 }
 p #contact{
 	font-size: 14px;
