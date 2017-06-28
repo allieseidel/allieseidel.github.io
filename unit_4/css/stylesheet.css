@@ -5,12 +5,13 @@ body {
 	font-size: 16px;
 	text-align: center;
 	position: relative;
-	font-family: helveitca
+	font-family: Arial;
 	color: #fff;
 }
 h1{
 	font-size: 50px;
 	font-family: 'Abril Fatface', cursive;
+	color:#fff;
 }
 h2 #slogan{
 	font-style: italic;
