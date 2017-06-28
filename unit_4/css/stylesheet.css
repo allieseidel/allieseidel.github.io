@@ -15,14 +15,14 @@ h1{
 hr {
 	width: 700px;
 }
-.description{
+.about{
 	font-size: 16px;
 	font-family: 'Lora', serif;
 	line-height: 1.5em;
     margin: 2em;
 
 }
-#contact{
+#email{
 	font-family: Helvetica;
 	text-underline-position; 
 }
