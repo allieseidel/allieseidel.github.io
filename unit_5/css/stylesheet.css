@@ -6,7 +6,7 @@ body {
 	text-align: center;
 	position: relative;
 	font-family: Arial;
-	color: #fff;
+	color: #000;
 }
 div{
 	background-color: #FFE2B8;
@@ -26,14 +26,14 @@ nav{
 h1{
 	font-size: 50px;
 	font-family: 'Abril Fatface', cursive;
-	color:#fff;
+	color:#000;
 }
 h2 #slogan{
 	font-style: italic;
 	font-style: bold;
 	font-size: 20px;
 	line-height: 1em;
-	color: #fff;
+	color: #000;
 }
 
 article{
@@ -57,11 +57,11 @@ p{
 	margin: auto;
 	padding: 50px;
 	color: #fff;
-
+}
 h4{
 	font-size: 14px;
 	text-decoration: underline;
-	color: eb35e3;	
+	font-color: 000;	
 }
 
 footer{
