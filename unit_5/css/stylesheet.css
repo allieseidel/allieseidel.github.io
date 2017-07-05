@@ -35,23 +35,20 @@ h2 #slogan{
 	line-height: 1em;
 	color: #fff;
 }
-hr {
-	border:none;
-	height:10px;
-	background-color: #fff;
-	width:2em;
-	margin:1em auto;
-	color: #fff;
-}
+
 article{
 	background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;
 }
+
 aside{
 	background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;
+}
+h3{
+font-family: helvetica;
 }
 p{
 	font-family:'Lora', serif;
@@ -60,14 +57,16 @@ p{
 	margin: auto;
 	padding: 50px;
 	color: #fff;
+
+h4{
+	font-size: 14px;
+	text-decoration: underline;
+	color: eb35e3;	
 }
+
 footer{
 	background-color: #FF957E;
     border: 1px black solid;
     padding: 20px;}
-h3{
-	font-size: 14px;
-	text-decoration: underline;
-	color: eb35e3;	
 }
 
