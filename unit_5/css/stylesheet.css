@@ -1,72 +1,28 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Lora');
-
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
 	background-color: #000;
 	font-size: 16px;
-	text-align: center;
-	position: relative;
-	font-family: Arial;
-	color: #000;
+	font-family:'Lora', serif;
+	color: #efefef;
 }
-div{
-	background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
-header{
-	background-color: #FFED74;
-    border: 1px black solid;
-    padding: 20px;
-}
-nav{
-	background-color: #E8C66A;
-    border: 1px black solid;
-    padding: 20px;
+section {
+	padding:5em 0;
 }
 h1{
 	font-size: 50px;
 	font-family: 'Abril Fatface', cursive;
-	color:#000;
 }
-h2 #slogan{
+#slogan{
 	font-style: italic;
 	font-style: bold;
 	font-size: 20px;
 	line-height: 1em;
-	color: #000;
 }
-
-article{
-	background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
+#intro {
+	background:url(../images/luxexchangepurses2.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	/* color: #333; */
+	height: 75vh;
 }
-
-aside{
-	background-color: #FFC675;
-    border: 1px black solid;
-    padding: 20px;
-}
-h3{
-font-family: helvetica;
-}
-p{
-	font-family:'Lora', serif;
-	font-size: 1em;
-	width: 30em;
-	margin: auto;
-	padding: 50px;
-	color: #fff;
-}
-h4{
-	font-size: 14px;
-	text-decoration: underline;
-	font-color: 000;	
-}
-
-footer{
-	background-color: #FF957E;
-    border: 1px black solid;
-    padding: 20px;}
-}
-
