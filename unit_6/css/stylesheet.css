@@ -10,16 +10,23 @@ body {
 section {
 	padding:5em 0;
 }
-h1{
-	font-size: 50px;
+.logo {
+	font-size: 80px;
 	font-family: 'Abril Fatface', cursive;
 }
+
 #slogan{
 	font-style: italic;
 	font-style: bold;
 	font-size: 20px;
 	line-height: 1em;
 }
+
+h1{
+	font-size: 50px;
+	font-family: 'Abril Fatface', cursive;
+}
+
 #intro {
 	background:url(../images/luxexchangepurses2.jpg);
 	background-size:cover;
