@@ -9,6 +9,26 @@ body {
 	align-content: center;
 
 }
+
+nav {
+	background: #e7c149;
+}
+
+nav a {
+	display: block center;
+    display-color: #e7c149;
+	float: none;
+	padding: 8px 10px;
+	text-decoration-color: #000;
+	text-align: center;
+	font-size: 20px;
+	border-right: 1px solid #000;
+}
+
+nav a:hover { 
+  background-color: #e5d4aa; 
+}
+
 section {
 	padding:5em 0;
 }
@@ -20,22 +40,32 @@ section {
 #slogan{
 	font-style: italic;
 	font-style: bold;
-	font-size: 20px;
-	line-height: 1em;
+	font-size: 30px;
+	line-height: .25em;
+	padding-bottom: 20px;
 }
 
 h1{
-	font-size: 50px;
+	font-size: 40px;
 	font-family: 'Abril Fatface', cursive;
 }
+h2{
+	font-family: 'Abril Fatface', cursive;
+	font-size: 20px;
+	font-variant: bold;
+}
 
-#intro {
+#intro .cta{
 	background:url(../images/luxexchangepurses2.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
 	/* color: #333; */
 	height: 75vh;
+	font-style: italic;
+	font-style: bold;
+	font-size: 25px;
 }
+
 #about #two_column {
     background-color: #FFB7CF;
     border: 1px black solid;
@@ -51,18 +81,25 @@ h1{
     height: 0;
 }
 
-#right {
-    background-color: violet;
-    border: 1px black solid;
+#left {
+    background-color: #e7c149;
+    border: 2px white solid;
+    text-decoration-color: #000;
     padding: 20px;
-    float: right;
-    width: 30%;
+    float: left;
+    width: 62%;
+    margin-left: 35px;
 }
 
-#left {
-    background-color: pink;
-    border: 1px black solid;
-    padding: 20px;
-    float: left;   
-    width: 62%;
+#right {
+    background-color: #e7c149;
+    border: 2px white solid;
+    float: right;
+    width: 25%;
+    padding: 10px;
+    margin-right: 35px;
+}
+
+footer {
+	font-size: 
 }
