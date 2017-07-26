@@ -109,11 +109,10 @@ footer {
     display: block;
     text-align: center;
   }
-nav a {
+nav #left #right {
     margin: 0 1em 1em;
+    float: none;
   }
-img {
-    width: 230px;
-  }
+
 }
 
