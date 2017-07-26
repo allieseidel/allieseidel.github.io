@@ -110,9 +110,12 @@ footer {
     line-height: 1em;
     text-align: center;
   }
-nav #left #right {
+nav, img #left #right {
     margin: 0 1em 1em;
     float: none;
+  }
+  #top-sellers {
+  	display: inline-block;
   }
 
 }
