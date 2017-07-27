@@ -3,11 +3,11 @@
 body {
 	background-color: #000;
 	text-align: center;
-	font-size: 16px;
+	font-size: 20px;
 	font-family:'Lora', serif;
 	color: #efefef;
 	align-content: center;
-
+	line-height: 1.5;
 }
 
 nav {
@@ -15,13 +15,12 @@ nav {
 }
 
 nav a {
-	display: block center;
-    display-color: #e7c149;
-	float: none;
-	padding: 1em 1.5em;
+	color: #e7c149;
+	display: block;
+	float: center;
+	padding: .5em 0;
 	text-decoration-color: #000;
 	text-align: center;
-	font-size: .5em;
 	border-right: .25em solid #000;
 }
 
