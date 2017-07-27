@@ -2,19 +2,10 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
 	background-color: #000;
-<<<<<<< HEAD
-	text-align: center;
-	font-size: 20px;
-	font-family:'Lora', serif;
-	color: #efefef;
-	align-content: center;
-	line-height: 1.5;
-=======
 	font-size: 16px;
 	font-family:'Lora', serif;
 	color: #efefef;
 	text-align: center;
->>>>>>> 427b9335da8c7de5d70ed22dc6fa9d8b37b712b7
 }
 
 nav {
@@ -22,18 +13,9 @@ nav {
 }
 
 nav a {
-<<<<<<< HEAD
-	color: #e7c149;
-	display: block;
-	float: center;
-	padding: .5em 0;
-	text-decoration-color: #000;
-	text-align: center;
-=======
 	display: inline-block;
 	padding: 1em 1.5em;
 	color: #000;
->>>>>>> 427b9335da8c7de5d70ed22dc6fa9d8b37b712b7
 	border-right: .25em solid #000;
 	/* border-left: .25em solid; */
 }
